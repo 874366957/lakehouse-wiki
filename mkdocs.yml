@@ -120,13 +120,13 @@ nav:
           - ML / AI 工程师: roles/ml-engineer.md
           - 平台工程师: roles/platform-engineer.md
           - BI 分析师: roles/bi-analyst.md
-       - 学习路径:
-           - learning-paths/index.md
-           - 一周新人路径: learning-paths/week-1-newcomer.md
-           - Iceberg 中文学习笔记: learning-paths/iceberg-wiki-notes.md
-           - 一月 AI 方向: learning-paths/month-1-ai-track.md
-           - 一月 BI 方向: learning-paths/month-1-bi-track.md
-           - 一季度资深路径: learning-paths/quarter-advanced.md
+      - 学习路径:
+          - learning-paths/index.md
+          - 一周新人路径: learning-paths/week-1-newcomer.md
+          - Iceberg 中文学习笔记: learning-paths/iceberg-wiki-notes.md
+          - 一月 AI 方向: learning-paths/month-1-ai-track.md
+          - 一月 BI 方向: learning-paths/month-1-bi-track.md
+          - 一季度资深路径: learning-paths/quarter-advanced.md
       - 上手教程:
           - tutorials/index.md
           - 你的第一张 Iceberg 表: tutorials/first-iceberg-table.md
